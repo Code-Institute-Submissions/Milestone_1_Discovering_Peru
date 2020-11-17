@@ -37,7 +37,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 - Snagit software, to edit pictures very easy
-- Figma and Pencil for wireframing
+- Figma for wireframing, since it's browserbased and I love this kind of flexibility. I followed [this](https://www.youtube.com/watch?v=JbFJWHWChJE) tutorial to get to know it better
 
 ## Testing
 
