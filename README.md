@@ -34,10 +34,10 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-- Snagit software, to edit pictures very easy
-- Figma for wireframing, since it's browserbased and I love this kind of flexibility. I followed [this](https://youtu.be/6t_dYhXyYjI) tutorial from Butter Academy to get to know it better
+- HTML5, CSS3, Bootstrap 4, 
+- Snagit Editor software, to edit pictures very easy
+- [Image Resizer](https://imageresizer.com/) to resize pictures
+- [Figma](https://www.figma.com) for wireframing, since it's browserbased and I enjoy this kind of flexibility. I followed [this](https://youtu.be/6t_dYhXyYjI) tutorial from Butter Academy to get to know it better
 
 ## Testing
 
@@ -73,11 +73,13 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ## Credits
 
+
+
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from my own
+- The photos used in this site were obtained from my own photo library and also from the free photolibrary [Pexels](https://www.pexels.com/)
 
 ### Acknowledgements
 
