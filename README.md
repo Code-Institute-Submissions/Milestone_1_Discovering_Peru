@@ -34,7 +34,10 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- HTML5, CSS3, Bootstrap 4, 
+- HTML5, CSS3, 
+- Bootstrap 4
+- Font Awesome
+- Google Fonts
 - Snagit Editor software, to edit pictures very easy
 - [Image Resizer](https://imageresizer.com/) to resize pictures
 - [Figma](https://www.figma.com) for wireframing, since it's browserbased and I enjoy this kind of flexibility. I followed [this](https://youtu.be/6t_dYhXyYjI) tutorial from Butter Academy to get to know it better
