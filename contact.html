@@ -37,5 +37,42 @@
         </nav>   
     </header>
 
+
+/*credit: the code from this form is based on the 'love running' project and the 'Resume Rosie' project earlier on in the course */
+
+    <section class="form-section">
+       
+        <form class="signup-form" method="post" action="https://formdump.codeinstitute.net/">
+        
+            <h3 class="contact-heading uppercase text-center">Contact us!</h3>
+            <h5 class="uppercase text-center">Why only tell stories after your journey? Tell us what you want and expect and let’s start collecting memories!</h5>
+            
+            <div class="center-form">
+                <label for="fname">First Name</label>
+                <input id="fname" input type="text" name="first_name" required class="text-input">
+                
+                <label for="lname">Last Name</label>
+                <input id="lname" input type="text" name="last_name" required class="text-input">
+                
+                <label for="email">Email Address</label>
+                <input id="email" input type="email" name="email_address" required class="text-input">
+
+                <textarea rows="15" name="textfield" id="textfield" class="form-control" placeholder="Ask your question here" required></textarea>
+                
+                <label for="road">Journey</label> 
+                <input id="road" input type="radio" name="contact_reason" value="road" required> 
+                
+                <label for="trail">Question</label> 
+                <input id="trail" input type="radio" name="contact_reason" value="trail">
+                
+                <label for="both">Proposition</label> 
+                <input id="both" input type="radio" name="contact_reason" value="both">
+                
+                <input type="submit" value="Let us know!" class="join-button">
+            </div>
+        </form>
+  
+   </section> 
+
 </body>
 </html>
