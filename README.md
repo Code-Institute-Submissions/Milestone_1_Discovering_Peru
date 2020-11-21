@@ -2,18 +2,16 @@
 
 # Discovering Peru
 
-Since the lockdown and the stricter rules on travelling and crossing boarders, I wanted to feel like I travelled a bit this year. So I'm taking the road way down to memory lane, when I went on my longest and most intense journey to Peru. 
-And since the situation is almost the same for everyone, I'm taking you guys with me! Enjoy the ride!
+Since the lockdown and the stricter rules on travelling and crossing boarders, I wanted to create a travel site based on one of my best travel experiences! At least give people some inspiration. and at best take a group with me to travel back to Peru!
 
  
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+- As a traveller, I want to find inspiration for a journey shedule in Peru, so that I can have a great travel experience.
+- As a consumer, I want to go travel with someone who has been in the country allready, so I don't fall for the tourist traps.
+- As a traveller, I want to travel in a small group of people, so I can get to know people from my own country too.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+[Wireframes](assets/wireframes.pdf)
 
 ## Features
 
@@ -82,7 +80,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from my own photo library and also from the free photolibrary [Pexels](https://www.pexels.com/)
+- The photos used in this site were obtained from my own photo library, while the pictures from the gallery page are from the free photolibrary [Pexels](https://www.pexels.com/).
 
 ### Acknowledgements
 
