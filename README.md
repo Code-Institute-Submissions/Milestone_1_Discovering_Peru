@@ -13,10 +13,10 @@ Since the lockdown and the stricter rules on travelling and crossing boarders, I
 
 ### Wireframes
 
-[Home page](assets/Wireframes/Homepage.pdf)
-[Gallery page](assets/Wireframes/gallerypage.pdf)
-[Journey page](assets/Wireframes/Journeypage.pdf)
-[Contact page](assets/Wireframes/contactpage.pdf)
+- [Home page](assets/Wireframes/Homepage.pdf)
+- [Gallery page](assets/Wireframes/gallerypage.pdf)
+- [Journey page](assets/Wireframes/Journeypage.pdf)
+- [Contact page](assets/Wireframes/contactpage.pdf)
 
 
 ## Features
