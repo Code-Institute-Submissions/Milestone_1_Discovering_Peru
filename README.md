@@ -11,7 +11,13 @@ Since the lockdown and the stricter rules on travelling and crossing boarders, I
 - As a consumer, I want to go travel with someone who has been in the country allready, so I don't fall for the tourist traps.
 - As a traveller, I want to travel in a small group of people, so I can get to know people from my own country too.
 
-[Wireframes](assets/wireframes.pdf)
+### Wireframes
+
+[Home page](assets/Wireframes/Home page.pdf)
+[Gallery page](assets/Wireframes/gallery page.pdf)
+[Journey page](assets/Wireframes/Journey page.pdf)
+[Contact page](assets/Wireframes/contact page.pdf)
+
 
 ## Features
 
